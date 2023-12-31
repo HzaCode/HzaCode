@@ -1,6 +1,6 @@
 ### Hard
 
-⚡Personal blog: [hezhiang.com](http://hezhiang.com)
+🚧Personal blog: [hezhiang.com](http://hezhiang.com)
 
 <!--
 **HzaCode/HzaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
